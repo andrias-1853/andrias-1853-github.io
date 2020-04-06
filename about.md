@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
+title: Acerca de mí
 permalink: /about/
 ---
 
-Some information about you!
+Me gustan las matemáticas y la biología.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
