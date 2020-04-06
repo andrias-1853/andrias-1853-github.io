@@ -17,10 +17,14 @@ html {
   font-size: 100%;
 }
 
+head{
+	<link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet"> 
+}
+
 body {
   background: $white;
   line-height: 1.4;
-  font-family: Courier
+  font-family: 'Ubuntu Mono', monospace;
   line-height: 1.4;
   color: $darkGray;
 }
